@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+</resources>
